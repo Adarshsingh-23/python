@@ -1,0 +1,49 @@
+# # # student=["karan",85.9,"delhi"]
+# # # print(type(student))
+# # # print(len(student))
+# # # student[0]="mohit"
+# # # print(student)
+
+# # # student.append("male")
+# # # print(student)
+
+# # # student.reverse()
+# # # print(student)
+
+
+
+# # tups=(1,2,3,4,)
+# # print(type(tups))
+# # print(len(tups))
+# # print(tups[3])
+# # print(tups[:3])
+# # #tups[0]=5  #error
+# # print(tups)
+# print(tuple(reversed(tups)))
+
+
+
+# movie1=(input("enter the name of movie1:"))
+# movie2=(input("enter the name of movie2:"))
+# movie3=(input("enter the name of movie:"))
+# list=[movie1,movie2,movie3]
+# print(list)
+
+
+# list1=[1,2,3,4]
+# copy_list1=list1.copy()
+# copy_list1.reverse()
+
+# if(copy_list1==list1):
+#     print("this is a palindrome")
+# else:
+# #     print("this is not a palindrome")
+
+
+
+
+
+
+# grade=("C","B","A","A","A","B","C")
+# print(grade.count("B"))
+       
